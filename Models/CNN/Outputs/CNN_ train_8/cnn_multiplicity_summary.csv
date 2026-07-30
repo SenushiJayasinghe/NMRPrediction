@@ -1,0 +1,15 @@
+Metric,Value
+Overall_Multiplicity_Accuracy_pct,33.098591549295776
+Total_Matched_Resonances,284.0
+Total_Missed_Resonances_FN,165.0
+Total_Spurious_Resonances_FP,39.0
+Singlet_Recall_pct,87.87878787878788
+Singlet_Precision_pct,35.36585365853659
+Doublet_Recall_pct,11.666666666666666
+Doublet_Precision_pct,20.0
+Triplet_Recall_pct,0.0
+Triplet_Precision_pct,0.0
+Quartet_Recall_pct,0.0
+Quartet_Precision_pct,0.0
+Multiplet_Recall_pct,0.0
+Multiplet_Precision_pct,

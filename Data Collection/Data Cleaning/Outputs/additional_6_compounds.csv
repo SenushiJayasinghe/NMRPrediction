@@ -1,0 +1,7 @@
+Name,SMILES,MW
+acenaphthylene,c1cc2cccc3c2c(c1)C=C3,152.196
+2-NITRONAPHTHALENE,c21c(ccc(c1)[N+](=O)[O-])cccc2,173.171
+ethyl caprylate,C(=O)(CCCCCCC)OCC,172.268
+isophthalic acid,O=C(O)c1cccc(C(=O)O)c1,166.132
+2-(4-chloro-2-methylphenoxy)acetic acid,Clc1cc(c(cc1)OCC(=O)O)C,200.621
+prostaglandin E2,OC1C(C(C(=O)C1)CC=CCCCC(=O)O)C=CC(O)CCCCC,352.471

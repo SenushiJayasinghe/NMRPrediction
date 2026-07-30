@@ -1,0 +1,8 @@
+Metric,Value
+N_Matched_Resonances_Integrated,355.0
+Mean_Absolute_Area_Error,0.0009928867607836573
+Mean_Absolute_Percent_Error_pct,35.4846610170401
+Median_Absolute_Percent_Error_pct,25.01768961451405
+Area_R2,0.8552656213385387
+Area_Correlation,0.933783950261924
+Integration_Margin_ppm,0.02

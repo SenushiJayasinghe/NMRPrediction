@@ -1,0 +1,2 @@
+Total_Compounds,Total_Actual_Peaks,Total_Predicted_Peaks,Total_Matched_Peaks,Mean_Shift_MAE_ppm,Mean_Intensity_MAE,Std_Shift_MAE_ppm,Std_Intensity_MAE,Peak_Detection_Accuracy
+52,1856,647,595,0.01290598146059684,0.12832575,0.008402396444450483,0.07229939,0.32058189655172414

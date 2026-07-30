@@ -1,0 +1,6 @@
+Simulated_Multiplicity,Singlet,Doublet,Triplet,Quartet,Multiplet
+Singlet,96,1,0,0,0
+Doublet,33,36,1,0,0
+Triplet,22,8,21,0,1
+Quartet,22,8,3,0,0
+Multiplet,23,10,4,1,0

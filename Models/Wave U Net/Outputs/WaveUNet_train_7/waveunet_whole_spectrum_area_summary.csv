@@ -1,0 +1,10 @@
+Metric,Value
+N_Compounds,52.0
+Mean_Normalized_Intensity_Area_Error_pct,313.20684052193076
+Std_Normalized_Intensity_Area_Error_pct,231.0632647440911
+Median_Normalized_Intensity_Area_Error_pct,258.88079435953904
+Normalized_Intensity_Area_R2,0.8327356189557338
+Normalized_Intensity_Area_Slope,1.2718626161211193
+Normalized_Intensity_Area_Intercept,0.057185504692613603
+Mean_Simulated_Total_Area,0.0316173361453156
+Mean_Predicted_Total_Area,0.09739841255717553

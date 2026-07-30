@@ -1,0 +1,13 @@
+,singlet,doublet,triplet,quartet,multiplet,none
+singlet,86,12,9,0,0,0
+doublet,40,53,16,3,1,0
+triplet,53,33,45,6,3,0
+quartet,63,31,14,7,3,0
+multiplet,44,36,23,12,2,0
+none,0,0,0,0,0,0
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Rows = Actual multiplicity,,,,,,
+Columns = Predicted multiplicity,,,,,,
