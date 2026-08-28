@@ -1,0 +1,37 @@
+# Requirements for NMRPrediction
+#
+# These versions reflect compatible minimum versions for the libraries used
+# across the data collection, cleaning, and model training scripts in this
+# repository. They are NOT an exact pip freeze of the original Aire HPC
+# environment (which used GPU-enabled PyTorch via CUDA) install these to
+# get a working environment; exact pinned versions may differ slightly from
+# what was originally used.
+
+# Core numerical / data handling
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Machine learning
+torch>=2.0
+scikit-learn>=1.3
+
+# Plotting
+matplotlib>=3.7
+
+# Cheminformatics
+rdkit>=2023.3.1
+
+# NMR-specific data handling
+nmrglue>=0.10
+jcamp>=1.2.1
+
+# GUI automation (Data Collection/Automation only — abandoned approach)
+pyautogui>=0.9.54
+pyperclip>=1.8
+
+# Note on PyTorch/CUDA:
+# Models were trained on the University of Leeds Aire HPC cluster using a
+# CUDA-enabled build of PyTorch. If reproducing on a GPU machine, install
+# the CUDA-enabled build matching your system from https://pytorch.org/get-started/locally/
+# Scripts fall back to CPU automatically if CUDA is unavailable.
