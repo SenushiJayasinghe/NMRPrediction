@@ -14,7 +14,7 @@ NMRPrediction/
 │   ├── Automation/           # PyAutoGUI-based automation of cheminfo.org (abandoned approach)
 │   ├── Data Cleaning/        # Compound selection, deduplication, molecular weight filtering
 │   └── MestReNova/           # Final spectrum simulation method (used for all reported results)
-│       └── Book4.csv         # Finalized library of 502 compounds (final output of data cleaning)
+│       └── Book4.csv         # Finalised library of 502 compounds (final output of data cleaning)
 └── Models/
     ├── MLP/Codes/            # Multi-layer perceptron experiments
     ├── CNN/Codes/            # 1D residual convolutional network experiments
